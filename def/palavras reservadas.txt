@@ -1,0 +1,16 @@
+﻿== Palavras reservadas ==
+
+begin
+
+end
+else
+
+program
+
+if
+
+read 
+
+write
+
+then
